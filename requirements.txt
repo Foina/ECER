@@ -1,0 +1,10 @@
+pandas
+pykeen
+numpy==1.26.4
+scikit-learn
+SPARQLWrapper
+gensim
+nltk
+transformers
+sentence-transformers
+torch
